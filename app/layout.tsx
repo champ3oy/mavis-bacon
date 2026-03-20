@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mavis Bacon",
+  title: "Mavis Bacon 🥓",
   description: "Typing test",
 };
 
